@@ -1,0 +1,100 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "666cf706-d99a-4b09-be38-378a5e321b5b")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 69.85 45.085)
+		(size 34.925 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "407ffc33-9ea8-4840-91f8-1270263fb13f")
+		(property "Sheetname" "UNIT B"
+			(at 69.85 44.3734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Unit_B.kicad_sch"
+			(at 69.85 83.7696 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Network Analyzer"
+				(path "/75812ce4-98f0-4f20-8292-9a5ac931bca8/b52e9603-ab43-4a58-a0d7-c52475fc0c7f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.935 45.085)
+		(size 34.925 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "46729aca-d8f6-4d73-b544-d409492e65e0")
+		(property "Sheetname" "UNIT A"
+			(at 114.935 44.3734 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Unit_A.kicad_sch"
+			(at 114.935 83.7696 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Network Analyzer"
+				(path "/75812ce4-98f0-4f20-8292-9a5ac931bca8/b52e9603-ab43-4a58-a0d7-c52475fc0c7f"
+					(page "6")
+				)
+			)
+		)
+	)
+)
